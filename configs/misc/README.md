@@ -1,2 +1,2 @@
-![Ben Weston — Cloud & Software Engineering](assets/banner.png)
+![Ben Weston — Cloud & Software Engineering](/assets/banner.png)
 
