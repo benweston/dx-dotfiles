@@ -2,7 +2,7 @@
 
 # `./assets/`
 
-> Static assets, images, diagrams, and logos used throughout the `sandbox-infra` repository documentation.   
+> Static assets, images, diagrams, and logos used throughout the `dotfiles-config` repository documentation.   
 
 ## Contents
 
