@@ -1,6 +1,6 @@
 <a href="https://github.com/benweston/dx-dotfiles">
     <img
-        src="./assets/banners/banner.png"
+        src="./assets/banner.png"
         alt="Developer Environment Configuration"
         width="1100"
         height="130"
